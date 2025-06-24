@@ -1,2 +1,2 @@
-# WDD-130-Jensen
+# WDD-130-Hough
 clinet website for WDD130 class
